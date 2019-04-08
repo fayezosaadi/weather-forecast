@@ -1,8 +1,14 @@
 # weather-forecast
 React application prototype to display British Columbia weather forecast    
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+1.  clone this repository.
+2.  Install dependencies: `yarn install`.
+3.  Start the react app from the command line: `yarn start`
 
-### `npm start`
+## Dependencies & Troubleshooting
+
+Dependencies:
+
+* Node 5.10.x or above
