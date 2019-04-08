@@ -11,4 +11,4 @@ React application prototype to display British Columbia weather forecast
 
 Dependencies:
 
-* Node 5.10.x or above
+* Node 9.10.x or above
